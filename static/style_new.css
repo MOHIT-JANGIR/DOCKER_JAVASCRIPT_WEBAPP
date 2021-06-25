@@ -1,0 +1,16 @@
+#cnt-div{
+    
+    background-color: peachpuff;
+    color: black;
+    font-size: large;
+    display: none;
+    position: absolute;
+    top: 40px;
+
+    
+    
+}
+
+#content{
+    font-size: larger;
+}
